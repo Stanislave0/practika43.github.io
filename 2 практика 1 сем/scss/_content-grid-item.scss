@@ -1,0 +1,19 @@
+.content-grid-item {
+    position: relative;
+    background-color: $color_background;
+    text-align: left;
+    h3, p {
+        margin: 10px;
+    }
+    .grid-text {
+        display: flex;
+        h4,p {
+            margin: 10px;
+        }
+        p {
+            text-decoration: line-through;
+            color: $color_font_grid;
+            font-weight: 300;
+        }
+    }
+}

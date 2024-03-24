@@ -1,0 +1,8 @@
+@import "_colors.scss";
+a {
+    text-decoration: none;
+    color: $color_link;
+    &:hover {
+        border-bottom: 2px solid $color_border_footer;
+    }
+}

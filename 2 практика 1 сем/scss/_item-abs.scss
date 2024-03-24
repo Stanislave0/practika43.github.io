@@ -1,0 +1,15 @@
+.item-abs {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    // padding: 20px;
+    align-items: center;
+    background-color: $color_slider_abs;
+    p {
+        margin: 20px;
+        color: $color_font_p;
+    }
+    h3 {
+        margin: 10px 20px 0 20px;
+    }
+}

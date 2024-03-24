@@ -1,0 +1,16 @@
+.grid-icon {
+    color: white;
+    position: absolute;
+    display: flex;
+    right: 20px;
+    align-items: center;
+    justify-content: center;
+    top: 20px;
+    background-color: $color_discount;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+}
+.new {
+    background-color: $color_new;
+}

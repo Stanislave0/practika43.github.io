@@ -1,0 +1,34 @@
+@import "scss/fonts.scss";
+@import "scss/colors";
+body {
+    margin: 0;
+    padding: 0;
+    color: $color_font;
+    font-family: $font-family1;
+    font-weight: $font-weight1;
+}
+@import "scss/links";
+@import "scss/header";
+@import "scss/main";
+@import "scss/main-img";
+@import "scss/main-title";
+@import "scss/main-title__button";
+@import "scss/content";
+@import "scss/content-browse-flex";
+@import "scss/content-grid";
+@import "scss/content-grid-item";
+@import "scss/grid-icon";
+@import "scss/show-more";
+@import "scss/slider";
+@import "scss/slider-title__button";
+@import "scss/slider-flex";
+@import "scss/item-abs";
+@import "scss/slider-flex-item";
+@import "scss/item-abs__button";
+@import "scss/grid-difficult";
+@import "scss/grid-items";
+@import "scss/footer";
+@import "scss/footer-flex";
+@import "scss/footer-flex__input";
+@import "scss/footer-flex__button";
+@import "scss/adaptation";

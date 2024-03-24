@@ -1,0 +1,12 @@
+@import "_colors.scss";
+.main-title {
+    position: absolute;
+    top: 40%;
+    right: 50px;
+    padding: 20px;
+    max-width: 650px;
+    background-color: $color_main;
+    h1 {
+        color: $color_main_2;
+    }
+}
